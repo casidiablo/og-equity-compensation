@@ -33,22 +33,11 @@
 
 ## Introduction
 
-If you’ve ever worked or considered working in a startup or fast-growing tech company, you probably have experienced or tried to learn about stock options, RSUs, and other elements of **equity compensation**.
-
-It’s a confusing topic that’s often not discussed clearly, but this is unfortunate, as it hurts people’s ability to make good decisions. Many people learn the basic ideas through experience or reading, but equity compensation is a complicated and difficult area usually only thoroughly understood by professionals. Sadly, costly and avoidable mistakes are routine, and this hurts both companies and employees.
-
-This guide aims to improve that situation. It does not presume you have a law degree or MBA. The material is dense, but we have tried to present it in a way that both lawyers and non-lawyers can understand.
-
-Think of the guide as a small book, not a blog. We suggest you star and refer to it in the future. An hour or two reading the material here and the linked resources could ultimately be among the most financially valuable ways you could spend that time.
-
-*This document and the discussion around it are not legal or tax advice.* Talk to a professional if you need advice about your particular situation. See the full disclaimer [below](#disclaimer).
-
+BS
 
 ## Should You Read This?
 
-If you’re thinking of working for a company that is offering you equity, it’s critical to understand both the basic ideas and some very technical details of what form of compensation it is, and how it affects your taxes. Equity compensation and taxation might seem like different topics, but they are so intertwined it’s hard to explain one without the other. Moreover, an understanding of the underlying rules is for negotiating fair offers — on both sides.
-
-Of course, this guide can’t replace professional advice. But following the advice of a company lawyer, your lawyer, or your tax advisor can be easier if you understand these topics better. Unfortunately, there’s just no way you can “just trust,” sign lots of papers, and expect it’ll work out. Ask almost anyone who’s worked at startups and they’ll have stories of how they or their friends or colleagues made costly mistakes because they did not understand the details.
+BS
 
 
 ## About This Guide
@@ -56,25 +45,19 @@ Of course, this guide can’t replace professional advice. But following the adv
 ### What is covered?
 
 - This guide applies to companies in the **United States**.
-- It is geared toward employees, advisors, and independent contractors who want to know how stock and stock options in startups work, either before or after they begin working with a startup.
-- It may also be useful for founders or hiring managers, who need to talk about equity compensation with employees or potential hires, or anyone curious to learn about these topics.
-- The aim is to be as helpful for the absolute beginner as it is for those with more experience.
+- BS
 
 ### Format
 
-- We keep this brief, so you can skim and return to it easily.
-- Sections are organized into individual points, so it’s easier to read, refer back to, contribute to, and correct.
-- We link liberally, so we can define terms, include curated articles that have a lot more detail, and give credit where it is due.
+More BS
 
 ### Why an Open Guide? Why on GitHub?
 
-This is an **open guide**. It’s *open to contributions*, so unlike a blog, it is living, and can be improved. While [a lot of information](#further-reading) on this topic is just a Google search away, it is scattered about. Many blogs and articles focus only on a narrow topic, are getting older, or are on sites supported by ads or other products. It should be possible to assemble this information sensibly, for free. This document was started by [Joshua Levy](https://github.com/jlevy) and [Joe Wallin](http://joewallin.com/about-joe-wallin/). It’s a preliminary version, and no doubt has some errors and shortcomings, but we want to see it evolve.
+BS
 
 ### Please help!
 
-Please join us in making this guide better. We are publishing this on GitHub, like an open source project. This way, we pool information, while also discussing and reviewing to ensure high quality. We gladly credit all contributors.
-
-**[Please use issues](https://github.com/jlevy/og-equity-compensation/issues)** to discuss topics, ask questions, identify issues, or suggest improvements. Don’t be shy about creating issues — they are the only way to discuss things here. Also take a look at [the page on contributing](/CONTRIBUTING.md).
+BS
 
 
 ## Basic Equity Concepts
@@ -100,7 +83,7 @@ This section covers the fundamental concepts and terminology around stock, stock
 - The total number of [**outstanding shares**](http://www.investopedia.com/terms/o/outstandingshares.asp) reflects how many shares are currently held by all shareholders. This number starts at an essentially arbitrary value (such as 10 million) and thereafter will increase as new shares are issued. It may increase or decrease for other reasons, too, such as stock splits and share buy back.
 - If you have stock, what ultimately determines its value is **percentage ownership** of the entire company, not the absolute number of shares. To determine the percentage of the company a certain number of shares represent, divide it by the number of outstanding shares.
 - However, there are subtleties to be aware of regarding what this outstanding total refers to:
-  - Private companies always have what is referred to as **“authorized but unissued”** shares. For example, a corporation might have 100 million authorized shares, but will only have actually issued 10 million shares. In this example, the corporation would have 90 million authorized but unissued shares. When you are trying to determine what percentage a number of shares represents, you do *not* make reference to the authorized but unissued shares.
+  - Private companies always have what is referred to as **“authorized but unissued”** shares. For example, a corporation might have 100 million authorized shares, but will only have actually issued 10 million shares. In this example, the corporation would have 90 million authorized but unissued shares. When you are trying to determine what percentage a number of shares represents, you do *not* make reference to the *authorized but* unissued shares.
   - You actually want to know the total issued, but even this number can be confusing, as it can be computed [more than one way](http://www.mattbartus.com/option-grants-fully-diluted-or-issued-and-outstanding/). Typically, people refer to the total number of shares “issued and outstanding” or “fully diluted.”
   - **“Issued and outstanding”** refers to the number of shares actually issued by the company to shareholders. Note this will not include shares that others may have an option to purchase.
   - **“Fully diluted”** refers to all of the shares that have been issued, all of the shares that have been set aside in a stock incentive plan, and all of the shares that could be issued if all convertible securities (such as outstanding warrants) were exercised. A key difference is that this total will include all the shares in the employee option pool that are reserved but not yet issued to employees. (The option pool is discussed more below.)
